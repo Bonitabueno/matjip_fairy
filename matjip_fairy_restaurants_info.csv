@@ -23,7 +23,7 @@ city,district,neighborhood,restaurant_type,name,address,main_menu,link
 서울,성북구,안암동,한식,한술식당 고대안암,서울 성북구 고려대로24길 15 2층 (안암동),덮밥,https://naver.me/FTOz7Ise
 서울,은평구,갈현동,한식,경주식당 연신내점,서울 은평구 연서로27길 13-8 (갈현동),고기한상,https://naver.me/IMQYPr5V
 서울,영등포구,문래동,베이커리,쉐프조 문래본점,서울 영등포구 문래로 98 한영빌딩 (문래동),케이크,https://naver.me/FJH6nKf6
-서울,영등포구,여의도동,햄버거,파이브가이즈 여의도,서울 영등포구 여의대로 108 (여의도동),치즈버거,https://naver.me/GwE91Mbw
+서울,영등포구,여의도동,양식,파이브가이즈 여의도,서울 영등포구 여의대로 108 (여의도동),치즈버거,https://naver.me/GwE91Mbw
 서울,광진구,화양동,카페,최가커피회관,서울 광진구 능동로13길 30 (화양동),비엔나커피,https://naver.me/Gtt1NRwf
 서울,강북구,미아동,한식,강북끝집,서울 강북구 도봉로8길 62 1층 (미아동),곱창,https://naver.me/5kLkAg2c
 서울,마포구,서교동,양식,풀리너마이트 홍대,서울 마포구 홍익로 13-4 (서교동),햄버거,https://naver.me/GJrDz7C1
@@ -42,7 +42,7 @@ city,district,neighborhood,restaurant_type,name,address,main_menu,link
 서울,중랑구,상봉동,고기,꿀삼겹,서울 중랑구 봉우재로 139 (상봉동),급냉꿀삼겹,https://naver.me/5X9TX3Zj
 서울,서초구,서초동,한식,서관면옥 교대본점,서울 서초구 서초대로56길 11 (서초동),냉면,https://naver.me/FEJdwTsn
 서울,서초구,양재동,뷔페,디오디아2.0,서울 서초구 강남대로 213 엘타워 4층 (양재동),뷔페,https://naver.me/xL1JfwpQ
-서울,서초구,서초동,햄버거,파이브가이즈 강남,서울 서초구 강남대로 435 주류성빌딩 (서초동),치즈버거,https://naver.me/Gh8cwiqc
+서울,서초구,서초동,양식,파이브가이즈 강남,서울 서초구 강남대로 435 주류성빌딩 (서초동),치즈버거,https://naver.me/Gh8cwiqc
 부산,강서구,봉림동,고기,푸디1354,부산 강서구 가락대로 1354 1층과 2층 (봉림동),스테이크,https://naver.me/Gp0CeRqq
 부산,연제구,연산동,한식,서가원국수,부산 연제구 반송로 68 D동 1층 (연산동),국수,https://naver.me/GNyUS33j
 부산,수영구,민락동,일식,톤쇼우 광안점,부산 수영구 광안해변로279번길 13 1층 (민락동),히레카츠,https://naver.me/FYuaUzzx
@@ -55,7 +55,7 @@ city,district,neighborhood,restaurant_type,name,address,main_menu,link
 부산,영도구,청학동,양식,그라치에,부산 영도구 청학동로 12 1층 (청학동),감자뇨끼,https://naver.me/FlJxYAdc
 부산,부산진구,전포동,카페,올더어글리쿠키,부산 부산진구 전포동 675-29 (전포동),어글리쿠키,https://naver.me/5OncCkPf
 부산,동래구,온천동,양식,알베로,부산 동래구 충렬대로100번길 30 1층 (온천동),로제크림파스타,https://naver.me/FPsBBexK
-부산,해운대구,송정동,햄버거,더블업 수제 햄버거 송정점,부산 해운대구 송정강변로 89 1층 (송정동),칠리버거,https://naver.me/G9sM8c2F
+부산,해운대구,송정동,양식,더블업 수제 햄버거 송정점,부산 해운대구 송정강변로 89 1층 (송정동),칠리버거,https://naver.me/G9sM8c2F
 부산,사하구,괴정동,양식,파스타 흔,부산 사하구 사하로141번길 17 오성빌라 109호 (괴정동),흔파세트,https://naver.me/5LuJXCSh
 부산,금정구,장전동,일식,톤쇼우,부산 금정구 금강로 247-10 (장전동),돈까스,https://naver.me/5vIYRnFQ
 대구,북구,태전동,고기,간큰갈비 태전점,대구 북구 태전로 37 1층 (태전동),돼지갈비무한리필,https://naver.me/xM2EitlH
@@ -96,7 +96,7 @@ city,district,neighborhood,restaurant_type,name,address,main_menu,link
 경북,경주,사정동,한식,향화정,경북 경주시 사정로57번길 17 (사정동),꼬막비빔밥,https://naver.me/F5bFuSbJ
 경남,진주,이현동,한식,하연옥,경남 진주시 진주대로 1317-20,냉면,https://naver.me/FWJPLqi1
 제주,서귀포,색달동,일식,연돈,제주 서귀포시 색달로 10 (색달동),돈까스,https://naver.me/5DH3Hg8h
-제주,서귀포,서귀동,햄버거,88버거,제주 서귀포시 동문로 63 (서귀동),88버거,https://place.map.kakao.com/27559019
+제주,서귀포,서귀동,양식,88버거,제주 서귀포시 동문로 63 (서귀동),88버거,https://place.map.kakao.com/27559019
 제주,서귀포,법환동,한식,앙끄레국수 서귀포본점,제주 서귀포시 법환상로2번길 97-18 (법환동),수두리 보말국수,https://place.map.kakao.com/27214543
 제주,서귀포,서호동,한식,테왁,제주 서귀포시 서호남로32번길 10-4 1층 (서호동),돌문어비빔밥,https://place.map.kakao.com/1429323857
 제주,서귀포,호근동,해산물,자연스러운식당,제주 서귀포시 태평로92번길 8 (호근동),자연스러운 플래터,https://place.map.kakao.com/471408439
