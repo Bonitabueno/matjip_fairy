@@ -1,4 +1,4 @@
-city,district,neighborhood,restaurant_type,name,address,main_menu,link
+city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,link
 서울,종로구,공평동,한식,할매가곰탕 종로센트로폴리스점,서울 종로구 우정국로 26 지하2층 10호 (공평동),곰탕,https://place.map.kakao.com/840304243
 서울,종로구,공평동,한식,제주세호해장국 센트로폴리스점,서울 종로구 우정국로 26 지하2층 (공평동),해장국,https://place.map.kakao.com/361530870
 서울,종로구,공평동,한식,스모플레이스 센트로폴리스점,서울 종로구 우정국로 26 센트로폴리스 1층 (공평동),솥밥,https://place.map.kakao.com/569854982
