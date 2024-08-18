@@ -15,6 +15,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 서울,강남구,역삼동,아시안,미엔아이 천등,서울 강남구 봉은사로4길 32 1층 (역삼동),우육면,https://naver.me/5y4qXEQt
 서울,강남구,논현동,한식,할매가곰탕 강남구청역점,서울 강남구 학동로 343 (논현동),곰탕,https://place.map.kakao.com/1496365791
 서울,강동구,천호동,덮밥,핵밥 천호점,서울 강동구 올림픽로 660(천호동),고기듬뿍덮밥,https://naver.me/FMAFdR5z
+서울,강동구,천호동,냉면,송월냉면,서울 강동구 구천면로29길 26 (천호동),열무냉면,https://naver.me/GKovmOTT
 서울,강북구,미아동,한식,강북끝집,서울 강북구 도봉로8길 62 1층 (미아동),곱창,https://naver.me/5kLkAg2c
 서울,강서구,마곡동,양식,세컨디포레스트 발산점,서울 강서구 강서로 395 2층 205호 (마곡동),스파게티,https://naver.me/xAWgiCeV
 서울,동대문구,용두동,일식,경양카츠 제기점,서울 동대문구 왕산로 86 푸르지오시티상가 101동 114호,안심X등심카츠,https://naver.me/FhAdN3JF
@@ -39,7 +40,6 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 서울,서대문구,창천동,한식,밥은먹었어,서울 서대문구 연세로11길 24 1층 (창천동),솥밥,https://naver.me/Goz2fWWY
 서울,서대문구,대현동,일식,담뿍유부,서울 서대문구 이화여대길 77 1층 (대현동),유뷰초밥,https://naver.me/xdf9KbPD
 서울,양천구,목동,한식,팔각도 목동점,서울 양천구 목동동로 266-1 1층 (목동),닭갈비,https://naver.me/IG6G4tZ0
-서울,강동구,천호동,한식,송월냉면,서울 강동구 구천면로29길 26 (천호동),냉면,https://naver.me/GKovmOTT
 서울,구로구,구로동,아시안,아건구디역점,서울 구로구 디지털로32길 97-15 (구로동),인도커리,https://naver.me/x6PU5mIq
 서울,금천구,독산동,한식,진영면옥,서울 금천구 가산로 22-5 (독산동),냉면,https://naver.me/IxD7bPNC
 서울,동작구,사당동,분식,애플하우스,서울 동작구 동작대로27다길 29 2층 (사당동),떡볶이,https://naver.me/FDjN9huq
