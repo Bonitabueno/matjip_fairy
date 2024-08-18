@@ -3,6 +3,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 서울,종로구,공평동,한식,제주세호해장국 센트로폴리스점,서울 종로구 우정국로 26 지하2층 (공평동),해장국,https://place.map.kakao.com/361530870
 서울,종로구,공평동,한식,스모플레이스 센트로폴리스점,서울 종로구 우정국로 26 센트로폴리스 1층 (공평동),솥밥,https://place.map.kakao.com/569854982
 서울,종로구,관수동,카페,꼬르꼬바두,서울 종로구 수표로 86-1 B1~2층 (관수동),아인슈페너,https://place.map.kakao.com/1802814431
+서울,종로구,관수동,족발,족의한수 종로본점,서울 종로구 수표로 93-1 1층 (관수동),참숯족발,https://naver.me/FxXEzMwY
 서울,종로구,중학동,카페,팀홀튼 광화문K-Twin타워점,서울 종로구 종로1길 50 케이트윈타워 B동 1층 (중학동),메이플라떼,https://place.map.kakao.com/536478687
 서울,종로구,청진동,한식,종로도담,서울 종로구 삼봉로 78 (청진동),김치찜,https://place.map.kakao.com/439177229
 서울,성동구,성수동,한식,소년식당,서울 성동구 서울숲6길 17 (성수동),간장새우밥,https://naver.me/5KZOCujS
@@ -36,6 +37,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 서울,금천구,독산동,한식,진영면옥,서울 금천구 가산로 22-5 (독산동),냉면,https://naver.me/IxD7bPNC
 서울,동작구,사당동,분식,애플하우스,서울 동작구 동작대로27다길 29 2층 (사당동),떡볶이,https://naver.me/FDjN9huq
 서울,관악구,봉천동,일식,킷사서울,서울 관악구 남부순환로226길 31 2층 (봉천동),부타동,https://naver.me/52lhPqAU
+서울,관악구,신림동,족발,족의한수,서울 관악구 신림로26길 13 1층 (신림동),참숯족발,https://naver.me/xjgiYerC
 서울,도봉구,방학동,일식,스시린,서울 도봉구 도봉로150길 43 1층 (방학동),초밥,https://naver.me/FJHIcYkH
 서울,노원구,중계동,횟집,생생도도참치,서울 노원구 덕릉로83길 16 2층 (중계동),실장스페셜,https://naver.me/5pEO6W8k
 서울,용산구,한남동,양식,델리카트슨 한남,서울 용산구 이태원로 231 지하1층 (한남동),스테이크,https://naver.me/xBpL4ucA
