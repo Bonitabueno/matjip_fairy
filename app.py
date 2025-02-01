@@ -3,15 +3,12 @@ from llama_cpp import Llama
 from datetime import datetime
 import pytz
 
-
-@st.cache_resource()
-def load_model():
-    return Llama(
-        model_path="EXAONE-3.5-2.4B-Instruct-BF16.gguf",
-        verbose=False
-    )
-
-llm = load_model()
+# Llama 모델 로드
+llm = Llama.from_pretrained(
+    repo_id="LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF",
+    filename="EXAONE-3.5-2.4B-Instruct-BF16.gguf",
+    verbose=False
+)
 
 # 현재 시간 가져오는 함수
 def get_current_time():
