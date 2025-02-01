@@ -4,8 +4,7 @@ from datetime import datetime
 import pytz
 
 # LLM 모델 로드
-# Llama 모델 로드
-llm = Llama.from_pretrained(
+llm = Llama(
     repo_id="LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct-GGUF",
     filename="EXAONE-3.5-2.4B-Instruct-BF16.gguf",
     verbose=False
