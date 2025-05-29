@@ -41,7 +41,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 서울,서대문구,창천동,한식,밥은먹었어,서울 서대문구 연세로11길 24 1층 (창천동),솥밥,https://naver.me/Goz2fWWY,none
 서울,서대문구,대현동,일식,담뿍유부,서울 서대문구 이화여대길 77 1층 (대현동),유뷰초밥,https://naver.me/xdf9KbPD,none
 서울,양천구,목동,한식,팔각도 목동점,서울 양천구 목동동로 266-1 1층 (목동),닭갈비,https://naver.me/IG6G4tZ0,none
-서울,구로구,구로동,아시안,아건 구디역점,서울 구로구 디지털로32길 97-15 (구로동),인도커리,https://naver.me/x6PU5mIq,none
+서울,구로구,구로동,인도음식,아건 구디역점,서울 구로구 디지털로32길 97-15 (구로동),인도커리,https://naver.me/x6PU5mIq,none
 서울,구로구,구로동,카페,마노핀익스프레스 구로디지털역점,서울 구로구 시흥대로 573-2 (구로동),붕어빵,https://naver.me/G2ENI430,구로디지털단지역
 서울,금천구,독산동,냉면,진영면옥,서울 금천구 가산로 22-5 (독산동),평양냉면,https://naver.me/IxD7bPNC,none
 서울,동작구,사당동,분식,애플하우스,서울 동작구 동작대로27다길 29 2층 (사당동),떡볶이,https://naver.me/FDjN9huq,none
@@ -70,7 +70,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 부산,사하구,괴정동,양식,파스타 흔,부산 사하구 사하로141번길 17 오성빌라 109호 (괴정동),흔파세트,https://naver.me/5LuJXCSh,none
 부산,금정구,장전동,일식,톤쇼우,부산 금정구 금강로 247-10 (장전동),돈가스,https://naver.me/5vIYRnFQ,none
 대구,북구,태전동,고기,간큰갈비 태전점,대구 북구 태전로 37 1층 (태전동),돼지갈비무한리필,https://naver.me/xM2EitlH,none
-대구,수성구,두산동,아시안,푸나왈라,대구 수성구 수성못2길 3 3층 (두산동),커리,https://naver.me/xkxq9ln3,none
+대구,수성구,두산동,인도음식,푸나왈라,대구 수성구 수성못2길 3 3층 (두산동),커리,https://naver.me/xkxq9ln3,none
 대구,달서구,진천동,일식,뜨돈 진천본점,대구 달서구 진천로9길 30 (진천동),돈가스,https://naver.me/5NdqC2iR,none
 대구,달성군,북리,한식,버섯골,대구 달성군 논공읍 논공로5길 125 (북리),소고기버섯샤브샤브,https://naver.me/xOCIjPMS,none
 대구,군위군,남산리,한식,시골밥상,대구 군위군 부계면 한티로 1903 (남산리),오리불고기,https://naver.me/5Tv3vZfE,none
