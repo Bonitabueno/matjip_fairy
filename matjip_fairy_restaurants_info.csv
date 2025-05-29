@@ -1,5 +1,5 @@
 city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,link,station
-서울,종로구,공평동,한식,할매가곰탕 종로센트로폴리스점,서울 종로구 우정국로 26 지하2층 10호 (공평동),곰탕,https://place.map.kakao.com/840304243,종각역
+서울,종로구,공평동,카페,어반밀커피 센트로폴리스점,서울 종로구 우정국로 26 1층 (공평동),플랫화이트,https://naver.me/5xjc5ssR,종각역
 서울,종로구,공평동,한식,스모플레이스 센트로폴리스점,서울 종로구 우정국로 26 센트로폴리스 1층 (공평동),솥밥,https://place.map.kakao.com/569854982,종각역
 서울,종로구,관수동,카페,꼬르꼬바두,서울 종로구 수표로 86-1 B1~2층 (관수동),아인슈페너,https://place.map.kakao.com/1802814431,none
 서울,종로구,관수동,족발,족의한수 종로본점,서울 종로구 수표로 93-1 1층 (관수동),참숯족발,https://naver.me/FxXEzMwY,none
@@ -67,15 +67,15 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 부산,동래구,온천동,양식,알베로,부산 동래구 충렬대로100번길 30 1층 (온천동),로제크림파스타,https://naver.me/FPsBBexK,none
 부산,해운대구,송정동,햄버거,더블업 수제 햄버거 송정점,부산 해운대구 송정강변로 89 1층 (송정동),칠리버거,https://naver.me/G9sM8c2F,none
 부산,사하구,괴정동,양식,파스타 흔,부산 사하구 사하로141번길 17 오성빌라 109호 (괴정동),흔파세트,https://naver.me/5LuJXCSh,none
-부산,금정구,장전동,일식,톤쇼우,부산 금정구 금강로 247-10 (장전동),돈까스,https://naver.me/5vIYRnFQ,none
+부산,금정구,장전동,일식,톤쇼우,부산 금정구 금강로 247-10 (장전동),돈가스,https://naver.me/5vIYRnFQ,none
 대구,북구,태전동,고기,간큰갈비 태전점,대구 북구 태전로 37 1층 (태전동),돼지갈비무한리필,https://naver.me/xM2EitlH,none
 대구,수성구,두산동,아시안,푸나왈라,대구 수성구 수성못2길 3 3층 (두산동),커리,https://naver.me/xkxq9ln3,none
-대구,달서구,진천동,일식,뜨돈 진천본점,대구 달서구 진천로9길 30 (진천동),돈까스,https://naver.me/5NdqC2iR,none
+대구,달서구,진천동,일식,뜨돈 진천본점,대구 달서구 진천로9길 30 (진천동),돈가스,https://naver.me/5NdqC2iR,none
 대구,달성군,북리,한식,버섯골,대구 달성군 논공읍 논공로5길 125 (북리),소고기버섯샤브샤브,https://naver.me/xOCIjPMS,none
 대구,군위군,남산리,한식,시골밥상,대구 군위군 부계면 한티로 1903 (남산리),오리불고기,https://naver.me/5Tv3vZfE,none
 인천,중구,덕교동,한식,용유어보,인천 중구 용유로21번길 57 (덕교동),고등어구이,https://naver.me/Gtt9Inbr,none
-인천,서구,마전동,일식,홍익돈까스 검단점,인천 서구 완정로10번길 25-1 (마전동),돈까스,https://naver.me/xNdLqN6f,none
-인천,서구,당하동,일식,호카츠,인천 서구 서곶로 788 128호 (당하동),돈까스,https://place.map.kakao.com/1097019957,none
+인천,서구,마전동,일식,홍익돈까스 검단점,인천 서구 완정로10번길 25-1 (마전동),돈가스,https://naver.me/xNdLqN6f,none
+인천,서구,당하동,일식,호카츠,인천 서구 서곶로 788 128호 (당하동),돈가스,https://place.map.kakao.com/1097019957,none
 인천,미추홀구,주안동,업종,백세삼계탕 인천주안점,인천 미추홀구 인주대로434번길 6 (주안동),삼계탕,https://naver.me/ID1c6iNO,none
 인천,미추홀구,주안동,업종,별미감자탕 주안점,인천 미추홀구 주염로 8 1층 (주안동),감자탕,https://naver.me/5eGZPJsp,none
 인천,동구,송림동,중식,명성각,인천 동구 샛골로161번길 36 (송림동),탕수육,https://naver.me/FCLxMazK,none
@@ -89,7 +89,8 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 인천,옹진군,선재리,카페,플로레도커피 선재점,인천 옹진군 영흥면 선재로 354 (선재리),아인슈페너,https://naver.me/xqfovjcW,none
 광주,광산구,신가동,일식,연어하다 광주본점,광주 광산구 수완로11번길 23 1층 (신가동),연어모듬,https://naver.me/ID1VpXK3,none
 대전,중구,은행동,베이커리,성심당 본점,대전 중구 대종로480번길 15 (은행동),튀김소보로,https://naver.me/FXZr5T27,none
-대전,유성구,구암동,소고기,백송한우 대전유성,대전 유성구 월드컵대로275번길 49 B동 지상1층 (구암동),808 백송 짝갈빗살 1++,https://naver.me/FuVhKwRV,none
+대전,유성구,구암동,소고기,백송한우 대전유성,대전 유성구 월드컵대로275번길 49 B동 지상1층 (구암동),갈비살,https://naver.me/FuVhKwRV,none
+울산,중구,성남동,일식,덴푸라찬,울산 중구 젊음의1거리 5 1층 (성남동),텐동,https://naver.me/IgJwO2yB,none
 울산,울진군,후포면,한식,후포리 대게앤쿡,경북 울진군 후포면 후포로 178-3 (후포리),대게,https://naver.me/Ft8us3b6,none
 세종,부강면,문곡리,한식,부강옥 세종부강본점,세종 부강면 부강외천로 103 1층 (문곡리),순대,https://naver.me/Fyex2N0h,none
 세종,None,대평동,한식,윤가네들깨수제비보쌈,세종 대평로 87 태양빌딩 2층 (대평동),별미들깨수제비,https://naver.me/GsTOBYNC,none
@@ -108,7 +109,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 전남,전주,송천동,한식,호남각,전북 전주시 덕진구 시천로 67 (송천동),전주비빔밥정식,https://naver.me/GIqtr3O8,none
 경북,경주,사정동,한식,향화정,경북 경주시 사정로57번길 17 (사정동),꼬막비빔밥,https://naver.me/F5bFuSbJ,none
 경남,진주,이현동,냉면,하연옥,경남 진주시 진주대로 1317-20,진주 물냉면,https://naver.me/FWJPLqi1,none
-제주,서귀포,색달동,일식,연돈,제주 서귀포시 색달로 10 (색달동),돈까스,https://naver.me/5DH3Hg8h,none
+제주,서귀포,색달동,일식,연돈,제주 서귀포시 색달로 10 (색달동),돈가스,https://naver.me/5DH3Hg8h,none
 제주,서귀포,서귀동,햄버거,88버거,제주 서귀포시 동문로 63 (서귀동),88버거,https://place.map.kakao.com/27559019,none
 제주,서귀포,법환동,한식,앙끄레국수 서귀포본점,제주 서귀포시 법환상로2번길 97-18 (법환동),수두리 보말국수,https://place.map.kakao.com/27214543,none
 제주,서귀포,서호동,한식,테왁,제주 서귀포시 서호남로32번길 10-4 1층 (서호동),돌문어비빔밥,https://place.map.kakao.com/1429323857,none
