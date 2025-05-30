@@ -1,1 +1,80 @@
-Seoul,Seongsu,New Mix coffee,3 Yeonmujang 3-gil, Seongdong-gu, Seoul, South Korea
+[
+  {
+    "restaurant_name": "New Mix coffee",
+    "restaurant_type": "Cafe",
+    "city": "Seoul",
+    "district_1": "Seongdong-gu",
+    "district_2": "Seongdong",
+    "neighborhood_1": "Seongsu-dong",
+    "neighborhood_2": "Seongsu",
+    "address": "3 Yeonmujang 3-gil, Seongdong-gu, Seoul, South Korea",
+    "menu": "Mix coffee",
+    "link": "https://maps.app.goo.gl/wVHtsc3sz6rkpYV57",
+    "station": "Seongsu Station at Line No.2, Seoul Metro"
+  },
+  {
+    "restaurant_name": "Bagel Land Seongsu",
+    "restaurant_type": "Cafe",
+    "city": "Seoul",
+    "district_1": "Seongdong-gu",
+    "district_2": "Seongdong",
+    "neighborhood_1": "Seongsu-dong",
+    "neighborhood_2": "Seongsu",
+    "address": "43-1 Yeonmujang-gil, Seongdong-gu, Seoul, South Korea",
+    "menu": "Bagel",
+    "link": "https://maps.app.goo.gl/814WPKfEygXm2z7m6",
+    "station": "Seongsu Station at Line No.2, Seoul Metro"
+  },
+  {
+    "restaurant_name": "Taeyang Gopchang Seongsu-dong",
+    "restaurant_type": "Korean food",
+    "city": "Seoul",
+    "district_1": "Seongdong-gu",
+    "district_2": "Seongdong",
+    "neighborhood_1": "Seongsu-dong",
+    "neighborhood_2": "Seongsu",
+    "address": "8-1, Yeonmujang 7-gil, Seongsu-dong 2(i)-ga, Seongdong-gu, Seoul, South Korea",
+    "menu": "Gopchang(beef intestines)",
+    "link": "https://maps.app.goo.gl/5RBu4HCdje2PoYpN8",
+    "station": "Seongsu Station at Line No.2, Seoul Metro"
+  },
+  {
+    "restaurant_name": "Subway_Seongsu Station",
+    "restaurant_type": "Sandwich shop",
+    "city": "Seoul",
+    "district_1": "Seongdong-gu",
+    "district_2": "Seongdong",
+    "neighborhood_1": "Seongsu-dong",
+    "neighborhood_2": "Seongsu",
+    "address": "113 Achasan-ro, Seongdong-gu, Seoul, South Korea"
+    "menu": "Sandwich"
+    "link": "https://maps.app.goo.gl/N1XkuTQopaee3QFc6",
+    "station": "Seongsu Station at Line No.2, Seoul Metro"
+  },
+  {
+    "restaurant_name": "NUDAKE Seongsu",
+    "restaurant_type": "Bakery",
+    "city": "Seoul",
+    "district_1": "Seongdong-gu",
+    "district_2": "Seongdong",
+    "neighborhood_1": "Seongsu-dong",
+    "neighborhood_2": "Seongsu",
+    "address": "26 Seongsui-ro 7-gil, Seongdong-gu, Seoul, South Korea",
+    "menu": "Dutch Latte",
+    "link": "https://maps.app.goo.gl/iLfVv5Xw4JYPvnKV9",
+    "station": "Seongsu Station at Line No.2, Seoul Metro"
+  },
+  {
+    "restaurant_name": "McDonald's",
+    "restaurant_type": "Fast food restaurant",
+    "city": "Seoul",
+    "district_1": "Yongsan-gu",
+    "district_2": "Yongsan",
+    "neighborhood_1": "Dongja-dong",
+    "neighborhood_2": "Dongja",
+    "address": "405 Seoul station, Hangang-daero, Yongsan-gu, Seoul, South Korea",
+    "menu": "Big Mac",
+    "link": "https://maps.app.goo.gl/rDkGYaDTCxpCqnG1A",
+    "station": "Seoul Station (Line 1, Line 4, Airport Line)"
+  },
+]
