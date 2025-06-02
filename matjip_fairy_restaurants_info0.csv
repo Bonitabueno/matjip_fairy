@@ -12,9 +12,9 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,menu1,menu2,l
 서울,성동구,성수동,패스트푸드,엘더버거 성수,서울 성동구 서울숲2길 40-7 1층 (성수동),햄버거,엘더클래식,https://naver.me/FeOweKHY,뚝섬역
 서울,성동구,성수동,패스트푸드,제스티살룬 성수,서울 성동구 서울숲4길 13 1층 (성수동),햄버거,제스티갈릭버거,https://naver.me/GxORsrxh,none
 서울,강남구,역삼동,소고기,육미안 강남점,서울 강남구 강남대로106길 9 1층 (역삼동),갈비,안창갈비,https://naver.me/Fr7pNdBP,none
-서울,강남구,논현동,한식,할매가곰탕 강남구청역점,서울 강남구 학동로 343 (논현동),곰탕,https://naver.me/xDJu7ht9,none
+서울,강남구,논현동,한식,우뚝소곱 강남구청역점,서울 강남구 선릉로131길 21 (논현동),곱창,소곱창,https://naver.me/xX7OlEIE,강남구청역
 서울,강동구,천호동,한식,핵밥 천호점,서울 강동구 올림픽로 660(천호동),덮밥,고기듬뿍덮밥,https://naver.me/FMAFdR5z,none
-서울,강동구,천호동,냉면,송월냉면,서울 강동구 구천면로29길 26 (천호동),열무냉면,https://naver.me/GKovmOTT,none
+서울,강동구,천호동,한식,송월냉면,서울 강동구 구천면로29길 26 (천호동),냉면,열무냉면,https://naver.me/GKovmOTT,none
 서울,강북구,미아동,한식,강북끝집,서울 강북구 도봉로8길 62 1층 (미아동),곱창,https://naver.me/5kLkAg2c,none
 서울,강서구,마곡동,양식,세컨디포레스트 발산점,서울 강서구 강서로 395 2층 205호 (마곡동),스파게티,https://naver.me/xAWgiCeV,none
 서울,강서구,등촌동,중식,라홍방마라탕 가양역점,서울 강서구 화곡로 416 더스카이밸리5차 지식산업센터 2층 201호 (등촌동),마라탕,https://naver.me/GuDMyyYM,none
@@ -102,8 +102,8 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,menu1,menu2,l
 경기,양평,옥천면,고기,대디스바베큐,경기 양평군 옥천면 옥천문화마을3길 15-24 (옥천리),바비큐,https://naver.me/5HSESVlD,none
 경기,수원,이의동,양식,라고,경기 수원시 영통구 센트럴타운로 85 광교 아브뉴프랑 1층 중앙광장 (이의동),이탈리아 코스요리,https://naver.me/FGoehrMA,none
 경기,화성,영천동,카페,타짜도르,경기 화성시 동탄기흥로520번가길 29 1층 (영천동),에스프레소,https://naver.me/FcmAqH7Z,none
-경기,화성,오산동,햄버거,롯데리아 동탄역사점,경기 화성시 동탄역로 151 (오산동),한우불고기버거,https://naver.me/GMPD8htK,동탄역
-강원,강릉,구정면,카페,테라로사 커피공장 강릉본점,강원 강릉시 구정면 현천길 7 (어단리),아메리카노,https://naver.me/GkKJK0mt,none
+경기,화성,오산동,패스트푸드,롯데리아 동탄역사점,경기 화성시 동탄역로 151 (오산동),햄버거,한우불고기버거,https://naver.me/GMPD8htK,동탄역
+강원,강릉,구정면,카페,테라로사 커피공장 강릉본점,강원 강릉시 구정면 현천길 7 (어단리),커피,아메리카노,https://naver.me/GkKJK0mt,none
 충북,충주,금릉동,한식,숲속장수촌,충북 충주시 쇠저울1길 36 (금릉동),닭누릉지백숙,https://naver.me/xScBEWPB,none
 충남,천안,구룡동,베이커리,뚜쥬루 빵돌가마마을,충남 천안시 동남구 풍세로 706 (구룡동),거북이빵,https://naver.me/G1so4ORu,none
 전북,전주,남노소동,한식,한울밥상,전북 전주시 완산구 기린대로 104 (남노송동),떡갈비,https://naver.me/FFviHGCF,none
