@@ -8,7 +8,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,menu1,menu2,l
 서울,종로구,청진동,한식,종로도담,서울 종로구 삼봉로 78 (청진동),보쌈,김치찜,https://place.map.kakao.com/439177229,none
 서울,성동구,성수동,한식,소년식당,서울 성동구 서울숲6길 17 (성수동),덮밥,간장새우밥,https://naver.me/5KZOCujS,뚝섬역
 서울,성동구,성수동,일식,요시,서울 성동구 서울숲6길 22 1층 (성수동),함박,우설함바그세트,https://naver.me/5yB8Wubj,뚝섬역
-서울,성동구,성수동,카페,뉴믹스커피,서울 성동구 연무장3길 3 1층 (성수동),커피,믹스커피,https://naver.me/GOzZMeWk,none
+서울,성동구,성수동,카페,뉴믹스커피,서울 성동구 연무장3길 3 1층 (성수동),커피,믹스커피,https://naver.me/GOzZMeWk,성수역
 서울,성동구,성수동,패스트푸드,엘더버거 성수,서울 성동구 서울숲2길 40-7 1층 (성수동),햄버거,엘더클래식,https://naver.me/FeOweKHY,뚝섬역
 서울,성동구,성수동,패스트푸드,제스티살룬 성수,서울 성동구 서울숲4길 13 1층 (성수동),햄버거,제스티갈릭버거,https://naver.me/GxORsrxh,none
 서울,강남구,역삼동,소고기,육미안 강남점,서울 강남구 강남대로106길 9 1층 (역삼동),갈비,안창갈비,https://naver.me/Fr7pNdBP,none
@@ -35,13 +35,13 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,menu1,menu2,l
 서울,은평구,갈현동,한식,경주식당 연신내점,서울 은평구 연서로27길 13-8 (갈현동),고기한상,https://naver.me/IMQYPr5V,none
 서울,영등포구,문래동,베이커리,쉐프조 문래본점,서울 영등포구 문래로 98 한영빌딩 (문래동),케이크,https://naver.me/FJH6nKf6,none
 서울,영등포구,여의도동,패스트푸드,파이브가이즈 여의도,서울 영등포구 여의대로 108 (여의도동),햄버거,치즈버거,https://naver.me/GwE91Mbw,none
-서울,광진구,화양동,카페,최가커피회관,서울 광진구 능동로13길 30 (화양동),커피,비엔나커피,https://naver.me/Gtt1NRwf,none
+서울,광진구,화양동,카페,최가커피회관,서울 광진구 능동로13길 30 (화양동),커피,비엔나커피,https://naver.me/Gtt1NRwf,건대입구역
 서울,마포구,서교동,패스트푸드,풀리너마이트 홍대,서울 마포구 홍익로 13-4 (서교동),햄버거,바비큐포크버거,https://naver.me/GJrDz7C1,none
 서울,마포구,노고산동,일식,렌게,서울 마포구 신촌로12길 31 1층 (노고산동),라멘,https://naver.me/GHEefARy,none
 서울,서대문구,창천동,한식,밥은먹었어,서울 서대문구 연세로11길 24 1층 (창천동),솥밥,https://naver.me/Goz2fWWY,none
 서울,서대문구,대현동,일식,담뿍유부,서울 서대문구 이화여대길 77 1층 (대현동),유뷰초밥,https://naver.me/xdf9KbPD,none
 서울,양천구,목동,한식,팔각도 목동점,서울 양천구 목동동로 266-1 1층 (목동),닭갈비,https://naver.me/IG6G4tZ0,none
-서울,구로구,구로동,인도음식,아건 구디역점,서울 구로구 디지털로32길 97-15 (구로동),인도커리,https://naver.me/x6PU5mIq,none
+서울,구로구,구로동,인도음식,아건 구디역점,서울 구로구 디지털로32길 97-15 (구로동),인도커리,https://naver.me/x6PU5mIq,구로디지털단지역
 서울,구로구,구로동,카페,마노핀익스프레스 구로디지털역점,서울 구로구 시흥대로 573-2 (구로동),붕어빵,https://naver.me/G2ENI430,구로디지털단지역
 서울,금천구,독산동,냉면,진영면옥,서울 금천구 가산로 22-5 (독산동),평양냉면,https://naver.me/IxD7bPNC,none
 서울,동작구,사당동,분식,애플하우스,서울 동작구 동작대로27다길 29 2층 (사당동),떡볶이,https://naver.me/FDjN9huq,none
