@@ -1,7 +1,7 @@
 city,district,neighborhood,restaurant_type,restaurant_name,address,menu1,menu2,link,station
 서울,종로구,공평동,카페,어반밀커피 센트로폴리스점,서울 종로구 우정국로 26 1층 (공평동),커피,플랫화이트,https://naver.me/5xjc5ssR,종각역
-서울,종로구,공평동,한식,스모플레이스 센트로폴리스점,서울 종로구 우정국로 26 센트로폴리스 1층 (공평동),솥밥,https://place.map.kakao.com/569854982,종각역
-서울,종로구,관수동,카페,꼬르꼬바두,서울 종로구 수표로 86-1 B1~2층 (관수동),커피아인슈페너,https://place.map.kakao.com/1802814431,none
+서울,종로구,공평동,한식,스모플레이스 센트로폴리스점,서울 종로구 우정국로 26 센트로폴리스 1층 (공평동),솥밥,스테이크솥밥,https://place.map.kakao.com/569854982,종각역
+서울,종로구,관수동,카페,꼬르꼬바두,서울 종로구 수표로 86-1 B1~2층 (관수동),커피,아인슈페너,https://place.map.kakao.com/1802814431,none
 서울,종로구,관수동,족발,족의한수 종로본점,서울 종로구 수표로 93-1 1층 (관수동),족발,참숯족발,https://naver.me/FxXEzMwY,none
 서울,종로구,관철동,고기,쟁반집8292 종로점,서울 종로구 종로8길 17 1층 (관철동),삼겹살,돈쟁반,https://naver.me/xB4wWhaV,none
 서울,종로구,중학동,카페,팀홀튼 광화문K-Twin타워점,서울 종로구 종로1길 50 케이트윈타워 B동 1층 (중학동),커피,메이플라떼,https://place.map.kakao.com/536478687,none
