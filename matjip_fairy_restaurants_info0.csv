@@ -1,10 +1,3 @@
 city,district,neighborhood,restaurant_type,restaurant_name,address,menu1,menu2,station,POI_1,PO1_2,link
 서울,종로구,공평동,카페,어반밀커피 센트로폴리스점,서울 종로구 우정국로 26 1층 (공평동),커피,플랫화이트,종각역,종로,센트로폴리스,https://naver.me/5xjc5ssR
 서울,종로구,공평동,한식,스모플레이스 센트로폴리스점,서울 종로구 우정국로 26 센트로폴리스 1층 (공평동),솥밥,스테이크솥밥,종각역,종로,센트로폴리스,https://place.map.kakao.com/569854982
-서울,종로구,관수동,카페,꼬르꼬바두,서울 종로구 수표로 86-1 B1~2층 (관수동),커피,아인슈페너,https://place.map.kakao.com/1802814431,none
-서울,종로구,관수동,족발,족의한수 종로본점,서울 종로구 수표로 93-1 1층 (관수동),족발,참숯족발,https://naver.me/FxXEzMwY,none
-서울,종로구,관철동,고기,쟁반집8292 종로점,서울 종로구 종로8길 17 1층 (관철동),삼겹살,돈쟁반,https://naver.me/xB4wWhaV,none
-서울,종로구,중학동,카페,팀홀튼 광화문K-Twin타워점,서울 종로구 종로1길 50 케이트윈타워 B동 1층 (중학동),커피,메이플라떼,https://place.map.kakao.com/536478687,none
-서울,종로구,청진동,한식,종로도담,서울 종로구 삼봉로 78 (청진동),보쌈,김치찜,https://place.map.kakao.com/439177229,none
-서울,성동구,성수동,한식,소년식당,서울 성동구 서울숲6길 17 (성수동),덮밥,간장새우밥,https://naver.me/5KZOCujS,뚝섬역
-서울,성동구,성수동,일식,요시,서울 성동구 서울숲6길 22 1층 (성수동),함박,우설함바그세트,https://naver.me/5yB8Wubj,뚝섬역
