@@ -36,9 +36,9 @@
     "address": "서울 종로구 수표로 86-1 B1~2층 (관수동)",
     "menu1": "커피",
     "menu2": "아인슈페너",
-    "station": "",
+    "station": "None",
     "POI_1": "종로",
-    "POI_2": "",
+    "POI_2": "None",
     "link": "https://naver.me/FsRsgZ2P"
   },
   {
@@ -90,11 +90,11 @@
     "restaurant_type": "고기",
     "restaurant_name": "쟁반집8292 종로점",
     "address": "서울 종로구 종로8길 17 1층 (관철동)",
-    "menu1": "",
+    "menu1": "None",
     "menu2": "돈쟁반",
-    "station": "종로3가역",
+    "station": "종각역",
     "POI_1": "종로",
-    "POI_2": "",
+    "POI_2": "None",
     "link": "https://naver.me/xB4wWhaV"
   }
 ]
