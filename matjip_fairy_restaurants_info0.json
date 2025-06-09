@@ -40,5 +40,33 @@
     "POI_1": "종로",
     "POI_2": "None",
     "link": "https://naver.me/FsRsgZ2P"
+  },
+  {
+    "city": "서울",
+    "district": "종로구",
+    "neighborhood": "돈의동",
+    "restaurant_type": "카페",
+    "restaurant_name": "꼬르꼬바두 등선재점",
+    "address": "서울 종로구 돈화문로9길 26-1 (돈의동)",
+    "menu1": "커피",
+    "menu2": "코코넛크림라떼",
+    "station": "종로3가역",
+    "POI_1": "종로",
+    "POI_2": "None",
+    "link": "https://naver.me/GkR3J0Qt"
+  },
+  {
+    "city": "서울",
+    "district": "종로구",
+    "neighborhood": "공평동",
+    "restaurant_type": "한식",
+    "restaurant_name": "솔솥 종로타워점",
+    "address": "서울 종로구 종로 51 지하1층 B108호 (공평동)",
+    "menu1": "솥밥",
+    "menu2": "스테이크솥밥, 도미관자솥밥, 민물장어솥밥",
+    "station": "종각역",
+    "POI_1": "종로",
+    "POI_2": "종로타워",
+    "link": "https://naver.me/GKUJFUFt"
   }
 ]
