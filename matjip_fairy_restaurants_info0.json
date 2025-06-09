@@ -36,9 +36,9 @@
     "address": "서울 종로구 수표로 86-1 B1~2층 (관수동)",
     "menu1": "커피",
     "menu2": "아인슈페너",
-    "station": "",
+    "station": "None",
     "POI_1": "종로",
-    "POI_2": "",
+    "POI_2": "None",
     "link": "https://naver.me/FsRsgZ2P"
   }
 ]
