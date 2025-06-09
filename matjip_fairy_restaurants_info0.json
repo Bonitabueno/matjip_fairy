@@ -26,5 +26,19 @@
     "POI_1": "종로",
     "POI_2": "센트로폴리스",
     "link": "https://place.map.kakao.com/569854982"
+  },
+  {
+    "city": "서울",
+    "district": "종로구",
+    "neighborhood": "관수동",
+    "restaurant_type": "카페",
+    "restaurant_name": "꼬르꼬바두 본점",
+    "address": "서울 종로구 수표로 86-1 B1~2층 (관수동)",
+    "menu1": "커피",
+    "menu2": "아인슈페너",
+    "station": "",
+    "POI_1": "종로",
+    "POI_2": "",
+    "link": "https://naver.me/FsRsgZ2P"
   }
 ]
