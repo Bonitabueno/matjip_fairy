@@ -11,7 +11,8 @@
     "station": "종각역",
     "POI_1": "종로",
     "POI_2": "센트로폴리스",
-    "link": "https://naver.me/5xjc5ssR"
+    "link": "https://naver.me/5xjc5ssR",
+    "description": "",
   },
   {
     "city": "서울",
@@ -25,7 +26,8 @@
     "station": "종각역",
     "POI_1": "종로",
     "POI_2": "센트로폴리스",
-    "link": "https://place.map.kakao.com/569854982"
+    "link": "https://place.map.kakao.com/569854982",
+    "description": "",
   },
   {
     "city": "서울",
@@ -53,7 +55,8 @@
     "station": "종로3가역",
     "POI_1": "종로, 종로3가",
     "POI_2": "",
-    "link": "https://naver.me/GkR3J0Qt"
+    "link": "https://naver.me/GkR3J0Qt",
+    "description": "",
   },
   {
     "city": "서울",
@@ -67,7 +70,8 @@
     "station": "종각역",
     "POI_1": "종로",
     "POI_2": "종로타워",
-    "link": "https://naver.me/GKUJFUFt"
+    "link": "https://naver.me/GKUJFUFt",
+    "description": "",
   },
   {
     "city": "서울",
@@ -81,7 +85,8 @@
     "station": "종로3가역",
     "POI_1": "종로",
     "POI_2": "YBM어학원 종로센터",
-    "link": "https://naver.me/FY3yI5X0"
+    "link": "https://naver.me/FY3yI5X0",
+    "description": "",
   },
   {
     "city": "서울",
@@ -95,7 +100,8 @@
     "station": "종각역",
     "POI_1": "종로",
     "POI_2": "None",
-    "link": "https://naver.me/xB4wWhaV"
+    "link": "https://naver.me/xB4wWhaV",
+    "description": "",
   },
   {
     "city": "서울",
@@ -109,7 +115,8 @@
     "station": "광화문역",
     "POI_1": "종로",
     "POI_2": "케이트윈타워, 서울지방국세청",
-    "link": "https://naver.me/FvEgwl2h"
+    "link": "https://naver.me/FvEgwl2h",
+    "description": "",
   },
   {
     "city": "서울",
@@ -123,7 +130,8 @@
     "station": "종각역",
     "POI_1": "종로",
     "POI_2": "None",
-    "link": "https://naver.me/5Rh0p8qC"
+    "link": "https://naver.me/5Rh0p8qC",
+    "description": "",
   },
   {
     "city": "서울",
@@ -137,7 +145,8 @@
     "station": "안국역",
     "POI_1": "종로",
     "POI_2": "북촌",
-    "link": "https://naver.me/5Rh0p8qC"
+    "link": "https://naver.me/5Rh0p8qC",
+    "description": "",
   },
   {
     "city": "서울",
@@ -151,7 +160,8 @@
     "station": "안국역",
     "POI_1": "종로",
     "POI_2": "북촌문화센터, 현대엔지니어링",
-    "link": "https://naver.me/FioT5Zf9"
+    "link": "https://naver.me/FioT5Zf9",
+    "description": "",
   },
   {
     "city": "서울",
@@ -165,7 +175,8 @@
     "station": "뚝섬역",
     "POI_1": "성수, 성수동1가",
     "POI_2": "서울숲",
-    "link": "https://naver.me/5KZOCujS"
+    "link": "https://naver.me/5KZOCujS",
+    "description": "",
   },
   {
     "city": "서울",
@@ -179,7 +190,8 @@
     "station": "뚝섬역",
     "POI_1": "성수, 성수동1가",
     "POI_2": "서울숲",
-    "link": "https://naver.me/5KZOCujS"
+    "link": "https://naver.me/5KZOCujS",
+    "description": "",
   },
   {
     "city": "서울",
@@ -193,7 +205,8 @@
     "station": "성수역",
     "POI_1": "성수",
     "POI_2": "성수구두테마공원",
-    "link": "https://naver.me/x8t7JbE9"
+    "link": "https://naver.me/x8t7JbE9",
+    "description": "",
   },
   {
     "city": "서울",
@@ -207,7 +220,8 @@
     "station": "뚝섬역",
     "POI_1": "성수",
     "POI_2": "서울숲",
-    "link": "https://naver.me/FeOweKHY"
+    "link": "https://naver.me/FeOweKHY",
+    "description": "",
   },
   {
     "city": "서울",
@@ -221,7 +235,8 @@
     "station": "뚝섬역",
     "POI_1": "성수",
     "POI_2": "서울숲",
-    "link": "https://naver.me/GxORsrxh"
+    "link": "https://naver.me/GxORsrxh",
+    "description": "",
   },
   {
     "city": "서울",
@@ -236,6 +251,7 @@
     "POI_1": "",
     "POI_2": "",
     "link": "",
+    "description": "",
   },
   {
     "city": "",
@@ -250,13 +266,9 @@
     "POI_1": "",
     "POI_2": "",
     "link": "",
+    "description": "",
   },
-]
-
-
-
-서울,강동구,천호동,한식,송월냉면,서울 강동구 구천면로29길 26 (천호동),냉면,https://naver.me/GKovmOTT,none
-
+  서울,강동구,천호동,한식,송월냉면,서울 강동구 구천면로29길 26 (천호동),냉면,https://naver.me/GKovmOTT,none
   {
     "city": "",
     "district": "",
@@ -270,10 +282,9 @@
     "POI_1": "",
     "POI_2": "",
     "link": "",
+    "description": "",
   },
-
-서울,강북구,미아동,한식,강북끝집,서울 강북구 도봉로8길 62 1층 (미아동),곱창,https://naver.me/5kLkAg2c,none
-
+  서울,강북구,미아동,한식,강북끝집,서울 강북구 도봉로8길 62 1층 (미아동),곱창,https://naver.me/5kLkAg2c,none
   {
     "city": "",
     "district": "",
@@ -287,10 +298,9 @@
     "POI_1": "",
     "POI_2": "",
     "link": "",
+    "description": "",
   },
-서울,강서구,마곡동,양식,하우스오브디라이프스타일키친 원그로브점,서울 강서구 강서로 395 2층 205호 (마곡동),파스타,https://naver.me/GBvOtuCc,마곡역
-서울,강서구,등촌동,중식,라홍방마라탕 가양역점,서울 강서구 화곡로 416 더스카이밸리5차 지식산업센터 2층 201호 (등촌동),마라탕,https://naver.me/GuDMyyYM,none
-
+  서울,강서구,마곡동,양식,하우스오브디라이프스타일키친 원그로브점,서울 강서구 강서로 395 2층 205호 (마곡동),파스타,https://naver.me/GBvOtuCc,마곡역
   {
     "city": "",
     "district": "",
@@ -304,6 +314,39 @@
     "POI_1": "",
     "POI_2": "",
     "link": "",
+    "description": "",
+  },
+  서울,강서구,등촌동,중식,라홍방마라탕 가양역점,서울 강서구 화곡로 416 더스카이밸리5차 지식산업센터 2층 201호 (등촌동),마라탕,https://naver.me/GuDMyyYM,none
+  {
+    "city": "",
+    "district": "",
+    "neighborhood": "",
+    "restaurant_type": "",
+    "restaurant_name": "",
+    "address": "",
+    "menu1": "",
+    "menu2": "",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "",
+    "link": "",
+    "description": "",
+  },
+  서울,동대문구,용두동,일식,경양카츠 제기점,서울 동대문구 왕산로 86 푸르지오시티상가 101동 114호,안심X등심카츠,https://naver.me/FhAdN3JF,none
+  {
+    "city": "",
+    "district": "",
+    "neighborhood": "",
+    "restaurant_type": "",
+    "restaurant_name": "",
+    "address": "",
+    "menu1": "",
+    "menu2": "",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "",
+    "link": "",
+    "description": "",
   },
   {
     "city": "",
@@ -318,6 +361,7 @@
     "POI_1": "",
     "POI_2": "",
     "link": "",
+    "description": "",
   },
 서울,동대문구,용두동,일식,경양카츠 제기점,서울 동대문구 왕산로 86 푸르지오시티상가 101동 114호,안심X등심카츠,https://naver.me/FhAdN3JF,none
 서울,동대문구,신설동,양식,오스테리아채채,서울 동대문구 왕산로3길 10 1층 (신설동),스파게티,https://naver.me/FM1DZdly,none
@@ -367,6 +411,8 @@
 서울,서초구,서초동,냉면,서관면옥 교대본점,서울 서초구 서초대로56길 11 (서초동),평양냉면,https://naver.me/FEJdwTsn,none
 서울,서초구,양재동,뷔페,디오디아2.0,서울 서초구 강남대로 213 엘타워 4층 (양재동),뷔페,https://naver.me/xL1JfwpQ,none
 서울,서초구,서초동,햄버거,파이브가이즈 강남,서울 서초구 강남대로 435 주류성빌딩 (서초동),치즈버거,https://naver.me/Gh8cwiqc,none
+]
+
 부산,강서구,봉림동,고기,푸디1354,부산 강서구 가락대로 1354 1층과 2층 (봉림동),스테이크,https://naver.me/Gp0CeRqq,none
 부산,연제구,연산동,한식,서가원국수,부산 연제구 반송로 68 D동 1층 (연산동),국수,https://naver.me/GNyUS33j,none
 부산,수영구,민락동,일식,톤쇼우 광안점,부산 수영구 광안해변로279번길 13 1층 (민락동),히레카츠,https://naver.me/FYuaUzzx,none
