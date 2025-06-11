@@ -1,7 +1,7 @@
 [
   {
     "city": "경북",
-    "district": "울진군",
+    "district": "울진",
     "neighborhood": "후포면",
     "restaurant_type": "한식",
     "restaurant_name": "후포리 대게앤쿡",
@@ -12,6 +12,21 @@
     "POI_1": "",
     "POI_2": "울진후포수협, 후포근린공원, 등기산",
     "link": "https://naver.me/Ft8us3b6",
-    "description": "5층 건물 전체가 식당입니다. 애견동반은 2층에 따로 분리되어 있습니다.",
+    "description": "5층 건물 전체가 식당이며 애견동반은 2층에 따로 분리되어 있습니다.",
+  },
+  {
+    "city": "경북",
+    "district": "경주",
+    "neighborhood": "사정동",
+    "restaurant_type": "한식",
+    "restaurant_name": "향화정",
+    "address": "경북 경주시 사정로57번길 17 (사정동)",
+    "menu1": "",
+    "menu2": "꼬막무침비빔밥, 해물파전, 육회비빔밥",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "서라벌문화회관, 경주역사유적지구대릉원지구, 대릉원경주시사적공원",
+    "link": "https://naver.me/F5bFuSbJ",
+    "description": "**황리단길에 위차해 있어요.**",
   },
 ]
