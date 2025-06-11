@@ -1,1 +1,17 @@
-전북,전주,남노소동,한식,한울밥상,전북 전주시 완산구 기린대로 104 (남노송동),떡갈비,https://naver.me/FFviHGCF,none
+[
+  {
+    "city": "전북",
+    "district": "전주",
+    "neighborhood": "남노송동",
+    "restaurant_type": "한식",
+    "restaurant_name": "한울밥상",
+    "address": "전북 전주시 완산구 기린대로 104 (남노송동)",
+    "menu1": "한정식",
+    "menu2": "떡갈비정식, 더덕제육불고기정식",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "전주한옥마을, 천주전주교구청",
+    "link": "https://naver.me/FFviHGCF",
+    "description": "",
+  },
+]
