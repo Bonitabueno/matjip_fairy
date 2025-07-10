@@ -1,1 +1,17 @@
-경남,진주,이현동,냉면,하연옥,경남 진주시 진주대로 1317-20,진주 물냉면,https://naver.me/FWJPLqi1,none
+[
+  {
+    "city": "경남",
+    "district": "진주",
+    "neighborhood": "이현동",
+    "restaurant_type": "한식",
+    "restaurant_name": "하연옥 본점",
+    "address": "경남 진주시 진주대로 1317-20",
+    "menu1": "냉면",
+    "menu2": "물냉면, 비빔냉면",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "",
+    "link": "https://naver.me/FWJPLqi1",
+    "description": "",
+  },
+]
