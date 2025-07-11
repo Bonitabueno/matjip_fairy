@@ -12,7 +12,7 @@
     "POI_1": "",
     "POI_2": "호텔더본제주",
     "link": "https://naver.me/5DH3Hg8h",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
@@ -27,7 +27,7 @@
     "POI_1": "",
     "POI_2": "호텔골든데이지 서귀포오션",
     "link": "https://naver.me/GIqtr3O8",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
@@ -42,7 +42,7 @@
     "POI_1": "",
     "POI_2": "제주월드컵경기장",
     "link": "https://naver.me/xwmqT9Ce",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
@@ -57,13 +57,13 @@
     "POI_1": "",
     "POI_2": "",
     "link": "https://naver.me/FHlgJSZP",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
     "district": "서귀포",
     "neighborhood": "호근동",
-    "restaurant_type": "양",
+    "restaurant_type": "양식식",
     "restaurant_name": "자연스러운식당",
     "address": "제주 서귀포시 태평로92번길 8 (호근동)",
     "menu1": "그리스 음식",
@@ -72,7 +72,7 @@
     "POI_1": "",
     "POI_2": "",
     "link": "https://naver.me/FbOfPy7E",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
@@ -87,7 +87,7 @@
     "POI_1": "",
     "POI_2": "서복공원",
     "link": "https://naver.me/IMyGYoMy",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
@@ -102,7 +102,7 @@
     "POI_1": "",
     "POI_2": "",
     "link": "https://naver.me/5HSE1muL",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
@@ -117,7 +117,7 @@
     "POI_1": "",
     "POI_2": "",
     "link": "https://naver.me/x9BYUVJC",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
@@ -132,7 +132,7 @@
     "POI_1": "",
     "POI_2": "",
     "link": "https://naver.me/GzE9Y3Lr",
-    "description": "",
+    "description": ""
   },
   {
     "city": "제주",
@@ -147,6 +147,6 @@
     "POI_1": "",
     "POI_2": "",
     "link": "https://naver.me/I55a8PPk",
-    "description": "메뉴로 짜장면, 짬뽕, 탕수육이 있어요.",
-  },
+    "description": "메뉴로 짜장면, 짬뽕, 탕수육이 있어요."
+  }
 ]
