@@ -241,6 +241,21 @@
   },
   {
     "city": "서울",
+    "district": "성동구",
+    "neighborhood": "성수동",
+    "restaurant_type": "한식",
+    "restaurant_name": "힘냉면록",
+    "address": "서울 성동구 상원1길 41 1층 (성수동)",
+    "menu1": "냉면",
+    "menu2": "비빔냉면, 물냉면, 갈비탕",
+    "station": "뚝섬역",
+    "POI_1": "성수",
+    "POI_2": "서울숲",
+    "link": "https://naver.me/GHvHi992",
+    "description": "뚝섬역 7번 출구에서 43m"
+  },
+  {
+    "city": "서울",
     "district": "강남구",
     "neighborhood": "역삼동",
     "restaurant_type": "고기",
