@@ -13,5 +13,20 @@
     "POI_2": "",
     "link": "https://naver.me/GkKJK0mt",
     "description": ""
-  }
+  },
+  {
+    "city": "강원",
+    "district": "삼척",
+    "neighborhood": "남양동",
+    "restaurant_type": "중식",
+    "restaurant_name": "쌍용각",
+    "address": "강원 삼척시 오십천로 455 (남양동)",
+    "menu1": "짜장면, 짬뽕",
+    "menu2": "탕수육",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "삼척고속버스터미널",
+    "link": "https://naver.me/Fk7Vjl8J",
+    "description": ""
+  }  
 ]
