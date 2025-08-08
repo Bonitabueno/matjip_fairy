@@ -1,3 +1,23 @@
+[
+  {
+    "city": "ソウル",
+    "district": "チョンノ区",
+    "neighborhood": "コンピョンドン, 公平洞",
+    "restaurant_type": "カフェ",
+    "restaurant_name": "アーバンミルコーヒー セントロポリス店",
+    "address": "서울 종로구 우정국로 26 1층 (공평동)",
+    "menu1": "コーヒー",
+    "menu2": "플랫화이트",
+    "station": "종각역",
+    "POI_1": "종로",
+    "POI_2": "센트로폴리스",
+    "link": "https://naver.me/5xjc5ssR",
+    "description": ""
+  }
+]
+
+
+
 city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,link,station
 ソウル,チョンノ区,공평동,카페,어반밀커피 센트로폴리스점,서울 종로구 우정국로 26 1층 (공평동),플랫화이트,https://naver.me/5xjc5ssR,종각역
 서울,종로구,공평동,한식,스모플레이스 센트로폴리스점,서울 종로구 우정국로 26 센트로폴리스 1층 (공평동),솥밥,https://place.map.kakao.com/569854982,종각역
