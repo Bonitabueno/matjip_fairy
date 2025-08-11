@@ -1,0 +1,32 @@
+[
+  {
+    "city": "대전",
+    "district": "중구",
+    "neighborhood": "은행동",
+    "restaurant_type": "베이커리",
+    "restaurant_name": "성심당 본점",
+    "address": "대전 중구 대종로480번길 15 (은행동)",
+    "menu1": "",
+    "menu2": "튀김소보로",
+    "station": "중앙로역",
+    "POI_1": "",
+    "POI_2": "",
+    "link": "https://naver.me/FXZr5T27",
+    "description": ""
+  },
+  {
+    "city": "대전",
+    "district": "유성구",
+    "neighborhood": "구암동",
+    "restaurant_type": "고기",
+    "restaurant_name": "백송한우 대전유성",
+    "address": "대전 유성구 월드컵대로275번길 49 B동 지상1층 (구암동)",
+    "menu1": "소고기",
+    "menu2": "갈비살",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "",
+    "link": "https://naver.me/FuVhKwRV",
+    "description": ""
+  }
+]
