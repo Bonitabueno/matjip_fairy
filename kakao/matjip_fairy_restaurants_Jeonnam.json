@@ -1,0 +1,32 @@
+[
+  {
+    "city": "전남",
+    "district": "나주",
+    "neighborhood": "중앙동",
+    "restaurant_type": "한식",
+    "restaurant_name": "나주곰탕하얀집",
+    "address": "전남 나주시 금성관길 6-1 (중앙동)",
+    "menu1": "곰탕",
+    "menu2": "나주곰탕, 수육곰탕",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "",
+    "link": "https://naver.me/5vIczJLn",
+    "description": ""
+  },
+  {
+    "city": "전남",
+    "district": "나주",
+    "neighborhood": "금계동",
+    "restaurant_type": "한식",
+    "restaurant_name": "나주곰탕노안집",
+    "address": "전남 나주시 금성관길 1-3 (금계동)",
+    "menu1": "곰탕",
+    "menu2": "나주곰탕, 수육곰탕",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "",
+    "link": "https://naver.me/GQ4Y1OxP",
+    "description": ""
+  }
+]
