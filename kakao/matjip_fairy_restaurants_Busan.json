@@ -32,7 +32,7 @@
   {
     "city": "부산",
     "district": "강서구",
-    "neighborhood": "대저1동, 대저동",
+    "neighborhood": "대저1동",
     "restaurant_type": "카페",
     "restaurant_name": "오런카페",
     "address": "부산 강서구 낙동북로 167 오런카페 (대저1동)",
@@ -47,7 +47,7 @@
   {
     "city": "부산",
     "district": "강서구",
-    "neighborhood": "대저2동, 대저동",
+    "neighborhood": "대저2동",
     "restaurant_type": "한식",
     "restaurant_name": "조방낙지코다리찜",
     "address": "부산 강서구 공항로791번길 8 (대저2동)",
