@@ -2,6 +2,21 @@
   {
     "city": "부산",
     "district": "강서구",
+    "neighborhood": "강동동",
+    "restaurant_type": "한식",
+    "restaurant_name": "오리전문점 152 부산강서본점",
+    "address": "부산 강서구 상덕로49번길 179-28 (강동동)",
+    "menu1": "오리불고기, 백숙",
+    "menu2": "한방오리백숙, 촌닭한방백숙, 생오리불고기",
+    "station": "",
+    "POI_1": "",
+    "POI_2": "김해공항",
+    "link": "https://naver.me/IMyL9TOO",
+    "description": "한방오리백숙과 능이오리백숙 등 건강하고 맛있는 오리 요리를 전문으로 하는 식당입니다."
+  },
+  {
+    "city": "부산",
+    "district": "강서구",
     "neighborhood": "봉림동",
     "restaurant_type": "고기",
     "restaurant_name": "푸디1354",
