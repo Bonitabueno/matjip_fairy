@@ -5,13 +5,13 @@
     "neighborhood": "コンピョンドン, 公平洞",
     "restaurant_type": "カフェ",
     "restaurant_name": "アーバンミルコーヒー セントロポリス店",
-    "address": "서울 종로구 우정국로 26 1층 (공평동)",
+    "address": "ソウル特別市 鐘路区 公平洞 17",
     "menu1": "コーヒー",
-    "menu2": "플랫화이트",
-    "station": "종각역",
-    "POI_1": "종로",
-    "POI_2": "센트로폴리스",
-    "link": "https://naver.me/5xjc5ssR",
+    "menu2": "ウィンナーコーヒー",
+    "station": "鐘閣駅",
+    "POI_1": "チョンノ",
+    "POI_2": "セントロポリス",
+    "link": "https://map.konest.com/dpoi/101817822",
     "description": ""
-  }
+  },
 ]
