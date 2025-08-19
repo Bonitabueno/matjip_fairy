@@ -1,6 +1,21 @@
 [
   {
     "city": "충북",
+    "district": "청주",
+    "neighborhood": "가경동",
+    "restaurant_type": "한식",
+    "restaurant_name": "방방파닭 청주가경본점",
+    "address": "충북 청주시 흥덕구 풍년로 104-2 1층 (가경동)",
+    "menu1": "치킨, 닭갈비",
+    "menu2": "닭갈비 양념구이, 닭갈비소금구이, 순살두마리치킨",
+    "station": "",
+    "POI_1": "흥덕, 흥덕구",
+    "POI_2": "",
+    "link": "https://naver.me/xP8ewyMq",
+    "description": ""
+  },
+  {
+    "city": "충북",
     "district": "충주",
     "neighborhood": "금릉동",
     "restaurant_type": "한식",
