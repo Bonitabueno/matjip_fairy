@@ -9,9 +9,24 @@
     "menu1": "백숙",
     "menu2": "한방오리능이백숙, 엄나무능이백숙",
     "station": "",
-    "POI_1": "",
+    "POI_1": "장안면",
     "POI_2": "속리산",
     "link": "https://naver.me/5MVzMoSb",
+    "description": ""
+  },
+  {
+    "city": "충북",
+    "district": "옥천",
+    "neighborhood": "추소리",
+    "restaurant_type": "카페",
+    "restaurant_name": "카페 벨리",
+    "address": "충북 옥천군 군북면 추소길 8-41 (추소리)",
+    "menu1": "커피, 파스타",
+    "menu2": "로제크림파스타, 크림파스타, 불낙지파스타",
+    "station": "",
+    "POI_1": "군북면",
+    "POI_2": "",
+    "link": "https://naver.me/xDJXTVIb",
     "description": ""
   },
   {
