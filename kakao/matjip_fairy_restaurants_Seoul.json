@@ -864,9 +864,9 @@
     "menu1": "햄버거",
     "menu2": "치즈버거",
     "station": "신논현역",
-    "POI_1": "",
+    "POI_1": "강남",
     "POI_2": "",
-    "link": "https://naver.me/Gh8cwiqc",
+    "link": "https://place.map.kakao.com/1725176424",
     "description": ""
   },
   {
@@ -912,6 +912,21 @@
     "POI_1": "신촌",
     "POI_2": "이화여대, 이대",
     "link": "https://place.map.kakao.com/27562577",
+    "description": ""
+  },
+  {
+    "city": "서울",
+    "district": "서대문구",
+    "neighborhood": "대현동",
+    "restaurant_type": "양식",
+    "restaurant_name": "심플리스트",
+    "address": "서울 서대문구 이화여대길 24, 2층 (대현동)",
+    "menu1": "파스타, 스파게티",
+    "menu2": "심플파이롤, 한우와 7가지 버섯파스타, 홍새우파스타",
+    "station": "이대역",
+    "POI_1": "신촌",
+    "POI_2": "이화여대, 이대",
+    "link": "https://place.map.kakao.com/1030438374",
     "description": ""
   }
 ]
