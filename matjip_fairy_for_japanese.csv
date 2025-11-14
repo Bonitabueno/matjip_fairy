@@ -2,12 +2,12 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 ソウル,チョンノ区,公平洞,カフェ,어반밀커피 센트로폴리스점,ソウル チョンノ区 우정국로 26 1층 (公平洞),플랫화이트,https://naver.me/5xjc5ssR,鐘閣駅
 ソウル,チョンノ区,公平洞,韓国料理,스모플레이스 센트로폴리스점,ソウル チョンノ区 우정국로 26 센트로폴리스 1층 (公平洞),솥밥,https://place.map.kakao.com/569854982,鐘閣駅
 ソウル,チョンノ区,관수동,カフェ,꼬르꼬바두 본점,ソウル チョンノ区 수표로 86-1 B1~2층 (관수동),아인슈페너,https://place.map.kakao.com/1802814431,none
-ソウル,チョンノ区,관수동,족발,족의한수 종로본점,ソウル チョンノ区 수표로 93-1 1층 (관수동),족발,https://naver.me/FxXEzMwY,none
+ソウル,チョンノ区,관수동,韓国料理,족의한수 종로본점,ソウル チョンノ区 수표로 93-1 1층 (관수동),족발,https://naver.me/FxXEzMwY,none
 ソウル,チョンノ区,관철동,고기,쟁반집8292 종로점,ソウル チョンノ区 종로8길 17 1층 (관철동),돈쟁반,https://naver.me/xB4wWhaV,none
 ソウル,チョンノ区,중학동,カフェ,팀홀튼 광화문K-Twin타워점,ソウル チョンノ区 종로1길 50 케이트윈타워 B동 1층 (중학동),메이플라떼,https://place.map.kakao.com/536478687,none
 ソウル,チョンノ区,청진동,韓国料理,종로도담,ソウル チョンノ区 삼봉로 78 (청진동),김치찜,https://place.map.kakao.com/439177229,none
 ソウル,성동구,성수동,韓国料理,少年食堂 聖水店,ソウル 성동구 ソウル숲6길 17 (성수동),간장새우밥,https://naver.me/5KZOCujS,뚝섬역
-ソウル,성동구,성수동,일식,요시,ソウル 성동구 ソウル숲6길 22 1층 (성수동),우설함바그세트,https://naver.me/5yB8Wubj,뚝섬역
+ソウル,성동구,성수동,和食,요시,ソウル 성동구 ソウル숲6길 22 1층 (성수동),우설함바그세트,https://naver.me/5yB8Wubj,뚝섬역
 ソウル,성동구,성수동,カフェ,뉴믹스커피,ソウル 성동구 연무장3길 3 1층 (성수동),믹스커피,https://naver.me/GOzZMeWk,성수역
 ソウル,성동구,성수동,햄버거,엘더버거 성수,ソウル 성동구 ソウル숲2길 40-7 1층 (성수동),엘더클래식,https://naver.me/FeOweKHY,뚝섬역
 ソウル,성동구,성수동,햄버거,제스티살룬 성수,ソウル 성동구 ソウル숲4길 13 1층 (성수동),제스티갈릭버거,https://naver.me/GxORsrxh,none
@@ -18,7 +18,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 ソウル,강북구,미아동,韓国料理,강북끝집,ソウル 강북구 도봉로8길 62 1층 (미아동),곱창,https://naver.me/5kLkAg2c,none
 ソウル,강서구,마곡동,양식,하우스오브디라이프스타일키친 원그로브점,ソウル 강서구 강서로 395 2층 205호 (마곡동),파스타,https://naver.me/GBvOtuCc,마곡역
 ソウル,강서구,등촌동,中華料理,라홍방마라탕 가양역점,ソウル 강서구 화곡로 416 더스카이밸리5차 지식산업센터 2층 201호 (등촌동),마라탕,https://naver.me/GuDMyyYM,none
-ソウル,동대문구,용두동,일식,경양카츠 제기점,ソウル 동대문구 왕산로 86 푸르지오시티상가 101동 114호,안심X등심카츠,https://naver.me/FhAdN3JF,none
+ソウル,동대문구,용두동,和食,경양카츠 제기점,ソウル 동대문구 왕산로 86 푸르지오시티상가 101동 114호,안심X등심카츠,https://naver.me/FhAdN3JF,none
 ソウル,동대문구,신설동,양식,오스테리아채채,ソウル 동대문구 왕산로3길 10 1층 (신설동),스파게티,https://naver.me/FM1DZdly,none
 ソウル,동대문구,신설동,도넛,프로젝트ソウル 신설동점,ソウル 동대문구 난계로26길 69 (신설동),크림브륄레 도넛,https://naver.me/F3OK7kJX,none
 ソウル,중구,신당동,韓国料理,멸치국수 맛있는집,ソウル 중구 동호로 186-3 (신당동),멸치국수,https://naver.me/xswkkftQ,none
@@ -37,17 +37,17 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 ソウル,영등포구,여의도동,햄버거,파이브가이즈 여의도,ソウル 영등포구 여의대로 108 (여의도동),치즈버거,https://naver.me/GwE91Mbw,none
 ソウル,광진구,화양동,カフェ,최가커피회관,ソウル 광진구 능동로13길 30 (화양동),비엔나커피,https://naver.me/Gtt1NRwf,건대입구역
 ソウル,마포구,서교동,햄버거,풀리너마이트 홍대,ソウル 마포구 홍익로 13-4 (서교동),바비큐포크버거,https://naver.me/GJrDz7C1,none
-ソウル,마포구,노고산동,일식,렌게,ソウル 마포구 신촌로12길 31 1층 (노고산동),라멘,https://naver.me/GHEefARy,none
+ソウル,마포구,노고산동,和食,렌게,ソウル 마포구 신촌로12길 31 1층 (노고산동),라멘,https://naver.me/GHEefARy,none
 ソウル,서대문구,창천동,韓国料理,밥은먹었어,ソウル 서대문구 연세로11길 24 1층 (창천동),솥밥,https://naver.me/Goz2fWWY,none
-ソウル,서대문구,대현동,일식,담뿍유부,ソウル 서대문구 이화여대길 77 1층 (대현동),유뷰초밥,https://naver.me/xdf9KbPD,none
+ソウル,서대문구,대현동,和食,담뿍유부,ソウル 서대문구 이화여대길 77 1층 (대현동),유뷰초밥,https://naver.me/xdf9KbPD,none
 ソウル,양천구,목동,韓国料理,팔각도 목동점,ソウル 양천구 목동동로 266-1 1층 (목동),닭갈비,https://naver.me/IG6G4tZ0,none
 ソウル,구로구,구로동,인도음식,아건 구디역점,ソウル 구로구 디지털로32길 97-15 (구로동),인도커리,https://naver.me/x6PU5mIq,none
 ソウル,구로구,구로동,カフェ,마노핀익스프레스 구로디지털역점,ソウル 구로구 시흥대로 573-2 (구로동),붕어빵,https://naver.me/G2ENI430,구로디지털단지역
 ソウル,금천구,독산동,냉면,진영면옥,ソウル 금천구 가산로 22-5 (독산동),평양냉면,https://naver.me/IxD7bPNC,none
 ソウル,동작구,사당동,분식,애플하우스,ソウル 동작구 동작대로27다길 29 2층 (사당동),떡볶이,https://naver.me/FDjN9huq,none
-ソウル,관악구,봉천동,일식,킷사ソウル,ソウル 관악구 남부순환로226길 31 2층 (봉천동),부타동,https://naver.me/52lhPqAU,none
+ソウル,관악구,봉천동,和食,킷사ソウル,ソウル 관악구 남부순환로226길 31 2층 (봉천동),부타동,https://naver.me/52lhPqAU,none
 ソウル,관악구,신림동,韓国料理,족의한수,ソウル 관악구 신림로26길 13 1층 (신림동),참숯족발,https://naver.me/xjgiYerC,ソウル대벤처타운
-ソウル,도봉구,방학동,일식,스시린,ソウル 도봉구 도봉로150길 43 1층 (방학동),초밥,https://naver.me/FJHIcYkH,none
+ソウル,도봉구,방학동,和食,스시린,ソウル 도봉구 도봉로150길 43 1층 (방학동),초밥,https://naver.me/FJHIcYkH,none
 ソウル,노원구,중계동,횟집,생생도도참치,ソウル 노원구 덕릉로83길 16 2층 (중계동),실장스페셜,https://naver.me/5pEO6W8k,none
 ソウル,용산구,한남동,양식,델리카트슨 한남,ソウル 용산구 이태원로 231 지하1층 (한남동),스테이크,https://naver.me/xBpL4ucA,none
 ソウル,중랑구,상봉동,고기,꿀삼겹,ソウル 중랑구 봉우재로 139 (상봉동),급냉꿀삼겹,https://naver.me/5X9TX3Zj,none
@@ -56,27 +56,27 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 ソウル,서초구,서초동,햄버거,파이브가이즈 강남,ソウル 서초구 강남대로 435 주류성빌딩 (서초동),치즈버거,https://naver.me/Gh8cwiqc,none
 부산,강서구,봉림동,고기,푸디1354,부산 강서구 가락대로 1354 1층과 2층 (봉림동),스테이크,https://naver.me/Gp0CeRqq,none
 부산,연제구,연산동,韓国料理,서가원국수,부산 연제구 반송로 68 D동 1층 (연산동),국수,https://naver.me/GNyUS33j,none
-부산,수영구,민락동,일식,톤쇼우 광안점,부산 수영구 광안해변로279번길 13 1층 (민락동),히레카츠,https://naver.me/FYuaUzzx,none
+부산,수영구,민락동,和食,톤쇼우 광안점,부산 수영구 광안해변로279번길 13 1층 (민락동),히레카츠,https://naver.me/FYuaUzzx,none
 부산,사상구,괘법동,韓国料理,합천일류돼지국밥,부산 사상구 광장로 34 윌로펌프 (괘법동),순대,https://naver.me/F1M2e7rb,none
 부산,기장군,이천리,カフェ,디원カフェ,부산 기장군 일광읍 일광로 326 (이천리),아메리카노,https://naver.me/x4biH6GK,none
 부산,서구,암남동,조개요리,송도1913,부산 서구 등대로 11 (암남동),송도해수욕탕,https://naver.me/Fmgl9eEb,none
 부산,중구,신창동,양식,이재모피자 본점,부산 중구 광복중앙로 31 (신창동),대표메뉴,https://naver.me/xZDOEG67,none
 부산,동구,초량동,韓国料理,초량해칼국수 부산역점,부산 동구 중앙대로231번길 15 1층 (초량동),한치조개전골,https://naver.me/GcjLucLL,none
-부산,북구,화명동,일식,히츠마부시 슌사이쿠보,부산 북구 양달로4번길 17 금샘빌딩 1층 (화명동),나고야식장어덮밥,https://naver.me/FGoe6L3h,none
+부산,북구,화명동,和食,히츠마부시 슌사이쿠보,부산 북구 양달로4번길 17 금샘빌딩 1층 (화명동),나고야식장어덮밥,https://naver.me/FGoe6L3h,none
 부산,영도구,청학동,양식,그라치에,부산 영도구 청학동로 12 1층 (청학동),감자뇨끼,https://naver.me/FlJxYAdc,none
 부산,부산진구,전포동,カフェ,올더어글리쿠키,부산 부산진구 전포동 675-29 (전포동),어글리쿠키,https://naver.me/5OncCkPf,none
 부산,동래구,온천동,양식,알베로,부산 동래구 충렬대로100번길 30 1층 (온천동),로제크림파스타,https://naver.me/FPsBBexK,none
 부산,해운대구,송정동,햄버거,더블업 수제 햄버거 송정점,부산 해운대구 송정강변로 89 1층 (송정동),칠리버거,https://naver.me/G9sM8c2F,none
 부산,사하구,괴정동,양식,파스타 흔,부산 사하구 사하로141번길 17 오성빌라 109호 (괴정동),흔파세트,https://naver.me/5LuJXCSh,none
-부산,금정구,장전동,일식,톤쇼우,부산 금정구 금강로 247-10 (장전동),돈가스,https://naver.me/5vIYRnFQ,none
+부산,금정구,장전동,和食,톤쇼우,부산 금정구 금강로 247-10 (장전동),돈가스,https://naver.me/5vIYRnFQ,none
 대구,북구,태전동,고기,간큰갈비 태전점,대구 북구 태전로 37 1층 (태전동),돼지갈비무한리필,https://naver.me/xM2EitlH,none
 대구,수성구,두산동,인도음식,푸나왈라,대구 수성구 수성못2길 3 3층 (두산동),커리,https://naver.me/xkxq9ln3,none
-대구,달서구,진천동,일식,뜨돈 진천본점,대구 달서구 진천로9길 30 (진천동),돈가스,https://naver.me/5NdqC2iR,none
+대구,달서구,진천동,和食,뜨돈 진천본점,대구 달서구 진천로9길 30 (진천동),돈가스,https://naver.me/5NdqC2iR,none
 대구,달성군,북리,韓国料理,버섯골,대구 달성군 논공읍 논공로5길 125 (북리),소고기버섯샤브샤브,https://naver.me/xOCIjPMS,none
 대구,군위군,남산리,韓国料理,시골밥상,대구 군위군 부계면 한티로 1903 (남산리),오리불고기,https://naver.me/5Tv3vZfE,none
 인천,중구,덕교동,韓国料理,용유어보,인천 중구 용유로21번길 57 (덕교동),고등어구이,https://naver.me/Gtt9Inbr,none
-인천,서구,마전동,일식,홍익돈까스 검단점,인천 서구 완정로10번길 25-1 (마전동),돈가스,https://naver.me/xNdLqN6f,none
-인천,서구,당하동,일식,호카츠,인천 서구 서곶로 788 128호 (당하동),돈가스,https://place.map.kakao.com/1097019957,none
+인천,서구,마전동,和食,홍익돈까스 검단점,인천 서구 완정로10번길 25-1 (마전동),돈가스,https://naver.me/xNdLqN6f,none
+인천,서구,당하동,和食,호카츠,인천 서구 서곶로 788 128호 (당하동),돈가스,https://place.map.kakao.com/1097019957,none
 인천,미추홀구,주안동,韓国料理,백세삼계탕 인천주안점,인천 미추홀구 인주대로434번길 6 (주안동),삼계탕,https://naver.me/ID1c6iNO,none
 인천,미추홀구,주안동,韓国料理,뼛집 본점,인천 미추홀구 주염로 8 1층 (주안동),감자탕,https://naver.me/5eGZPJsp,none
 인천,동구,송림동,中華料理,명성각,인천 동구 샛골로161번길 36 (송림동),탕수육,https://naver.me/FCLxMazK,none
@@ -84,19 +84,19 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 인천,남동구,구월동,카레,히토리카레,인천 남동구 남동대로765번길 26 (구월동),돈까스카레,https://naver.me/F0KwUpw5,none
 인천,부평구,삼산동,韓国料理,배두둑마을,인천 부평구 체육관로 24 청호빌딩 (삼산동),곤드레밥정식,https://naver.me/FEJdNeJX,none
 인천,연수구,송도동,韓国料理,밥상편지,인천 연수구 하모니로 124 3층 (송도동),흑마늘소갈비찜차림,https://naver.me/FXZrKKCl,none
-인천,계양구,용종동,일식,백소정 계양구청점,인천 계양구 오조산로89번길 9 1층 (용종동),돈카츠,https://naver.me/x8izFVHA,none
+인천,계양구,용종동,和食,백소정 계양구청점,인천 계양구 오조산로89번길 9 1층 (용종동),돈카츠,https://naver.me/x8izFVHA,none
 인천,강화군,매음리,韓国料理,토담마을 강화도본점,인천 강화군 삼산면 삼산남로 910 토담마을펜션 (매음리),밴댕이회무침정식,https://naver.me/xH2nwtu4,none
 인천,강화군,온수리,韓国料理,원두막가든,인천 강화군 길상면 전등사로 60 (온수리),젓국갈비전골,https://naver.me/5Tv3TIQA,none
 인천,옹진군,선재리,カフェ,플로레도커피 선재점,인천 옹진군 영흥면 선재로 354 (선재리),아인슈페너,https://naver.me/xqfovjcW,none
-광주,광산구,신가동,일식,연어하다 광주본점,광주 광산구 수완로11번길 23 1층 (신가동),연어모듬,https://naver.me/ID1VpXK3,none
+광주,광산구,신가동,和食,연어하다 광주본점,광주 광산구 수완로11번길 23 1층 (신가동),연어모듬,https://naver.me/ID1VpXK3,none
 대전,중구,은행동,베이커리,성심당 본점,대전 중구 대종로480번길 15 (은행동),튀김소보로,https://naver.me/FXZr5T27,none
 대전,유성구,구암동,소고기,백송한우 대전유성,대전 유성구 월드컵대로275번길 49 B동 지상1층 (구암동),갈비살,https://naver.me/FuVhKwRV,none
-울산,중구,성남동,일식,덴푸라찬,울산 중구 젊음의1거리 5 1층 (성남동),텐동,https://naver.me/IgJwO2yB,none
+울산,중구,성남동,和食,덴푸라찬,울산 중구 젊음의1거리 5 1층 (성남동),텐동,https://naver.me/IgJwO2yB,none
 울산,울진군,후포면,韓国料理,후포리 대게앤쿡,경북 울진군 후포면 후포로 178-3 (후포리),대게,https://naver.me/Ft8us3b6,none
 세종,부강면,문곡리,韓国料理,부강옥 세종부강본점,세종 부강면 부강외천로 103 1층 (문곡리),순대,https://naver.me/Fyex2N0h,none
 세종,None,대평동,韓国料理,윤가네들깨수제비보쌈,세종 대평로 87 태양빌딩 2층 (대평동),별미들깨수제비,https://naver.me/GsTOBYNC,none
 세종,금남면,용담리,カフェ,가배서림,세종 금남면 안금로 241 (용담리),인절미크림가배,https://naver.me/xyUju1Uc,none
-경기,구리,수택동,일식,안다미로스시,경기 구리시 경춘로266번길 10 1층 (수택동),초밥,https://naver.me/5cTACOJm,none
+경기,구리,수택동,和食,안다미로스시,경기 구리시 경춘로266번길 10 1층 (수택동),초밥,https://naver.me/5cTACOJm,none
 경기,구리,갈매동,고기,장우가,경기 구리시 경춘북로 252 갈매 아이파크 애비뉴 C동 2층 232호 (갈매동),돼지양념구이,https://naver.me/xVlAh4Er,none
 경기,광주,초월읍,韓国料理,청보밥상,경기 광주시 초월읍 경충대로 852 (산이리),청국장,https://naver.me/x1gEq2Pu,none
 경기,양평,옥천면,고기,대디스바베큐,경기 양평군 옥천면 옥천문화마을3길 15-24 (옥천리),바비큐,https://naver.me/5HSESVlD,none
@@ -112,13 +112,13 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 전남,전주,송천동,韓国料理,호남각,전북 전주시 덕진구 시천로 67 (송천동),전주비빔밥정식,https://naver.me/GIqtr3O8,none
 경북,경주,사정동,韓国料理,향화정,경북 경주시 사정로57번길 17 (사정동),꼬막비빔밥,https://naver.me/F5bFuSbJ,none
 경남,진주,이현동,냉면,하연옥,경남 진주시 진주대로 1317-20,진주 물냉면,https://naver.me/FWJPLqi1,none
-제주,서귀포,색달동,일식,연돈,제주 서귀포시 색달로 10 (색달동),돈가스,https://naver.me/5DH3Hg8h,none
+제주,서귀포,색달동,和食,연돈,제주 서귀포시 색달로 10 (색달동),돈가스,https://naver.me/5DH3Hg8h,none
 제주,서귀포,서귀동,햄버거,88버거,제주 서귀포시 동문로 63 (서귀동),88버거,https://place.map.kakao.com/27559019,none
 제주,서귀포,법환동,韓国料理,앙끄레국수 서귀포본점,제주 서귀포시 법환상로2번길 97-18 (법환동),수두리 보말국수,https://place.map.kakao.com/27214543,none
 제주,서귀포,서호동,韓国料理,테왁,제주 서귀포시 서호남로32번길 10-4 1층 (서호동),돌문어비빔밥,https://place.map.kakao.com/1429323857,none
 제주,서귀포,호근동,해산물,자연스러운식당,제주 서귀포시 태평로92번길 8 (호근동),자연스러운 플래터,https://place.map.kakao.com/471408439,none
 제주,서귀포,동홍동,韓国料理,제주곶 서귀포 해물라면,제주 서귀포시 칠십리로214번길 36 (동홍동),제주 곶 문어라면,https://place.map.kakao.com/1868538026,none
-제주,서귀포,서홍동,일식,아리,제주 서귀포시 홍중로 99 1층 (서홍동),아리텐동,https://naver.me/5HSE1muL,none
+제주,서귀포,서홍동,和食,아리,제주 서귀포시 홍중로 99 1층 (서홍동),아리텐동,https://naver.me/5HSE1muL,none
 제주,서귀포,상효동,韓国料理,돈내코 점심,제주 서귀포시 516로 472 (상효동),제주청귤초비빔면,https://place.map.kakao.com/1116584730,none
 제주,서귀포,하효동,カフェ,게우지코지 カフェ,제주 서귀포시 보목포로 179 (하효동),제주목장 요거트,https://place.map.kakao.com/1013835521,none
 제주,서귀포,하효동,中華料理,아서원,제주 서귀포시 칠십리로 699 (하효동),짬뽕,https://place.map.kakao.com/7989149,none
