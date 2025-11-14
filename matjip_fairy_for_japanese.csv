@@ -17,7 +17,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 ソウル,강동구,천호동,韓国料理,송월냉면,ソウル 강동구 구천면로29길 26 (천호동),냉면,https://naver.me/GKovmOTT,none
 ソウル,강북구,미아동,韓国料理,강북끝집,ソウル 강북구 도봉로8길 62 1층 (미아동),곱창,https://naver.me/5kLkAg2c,none
 ソウル,강서구,마곡동,양식,하우스오브디라이프스타일키친 원그로브점,ソウル 강서구 강서로 395 2층 205호 (마곡동),파스타,https://naver.me/GBvOtuCc,마곡역
-ソウル,강서구,등촌동,중식,라홍방마라탕 가양역점,ソウル 강서구 화곡로 416 더스카이밸리5차 지식산업센터 2층 201호 (등촌동),마라탕,https://naver.me/GuDMyyYM,none
+ソウル,강서구,등촌동,中華料理,라홍방마라탕 가양역점,ソウル 강서구 화곡로 416 더스카이밸리5차 지식산업센터 2층 201호 (등촌동),마라탕,https://naver.me/GuDMyyYM,none
 ソウル,동대문구,용두동,일식,경양카츠 제기점,ソウル 동대문구 왕산로 86 푸르지오시티상가 101동 114호,안심X등심카츠,https://naver.me/FhAdN3JF,none
 ソウル,동대문구,신설동,양식,오스테리아채채,ソウル 동대문구 왕산로3길 10 1층 (신설동),스파게티,https://naver.me/FM1DZdly,none
 ソウル,동대문구,신설동,도넛,프로젝트ソウル 신설동점,ソウル 동대문구 난계로26길 69 (신설동),크림브륄레 도넛,https://naver.me/F3OK7kJX,none
@@ -79,7 +79,7 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 인천,서구,당하동,일식,호카츠,인천 서구 서곶로 788 128호 (당하동),돈가스,https://place.map.kakao.com/1097019957,none
 인천,미추홀구,주안동,韓国料理,백세삼계탕 인천주안점,인천 미추홀구 인주대로434번길 6 (주안동),삼계탕,https://naver.me/ID1c6iNO,none
 인천,미추홀구,주안동,韓国料理,뼛집 본점,인천 미추홀구 주염로 8 1층 (주안동),감자탕,https://naver.me/5eGZPJsp,none
-인천,동구,송림동,중식,명성각,인천 동구 샛골로161번길 36 (송림동),탕수육,https://naver.me/FCLxMazK,none
+인천,동구,송림동,中華料理,명성각,인천 동구 샛골로161번길 36 (송림동),탕수육,https://naver.me/FCLxMazK,none
 인천,남동구,구월동,고기,와규몽,인천 남동구 선수촌공원로23번길 10-22 3층 (구월동),꽃삼겹살,https://naver.me/5U1Gj1Ho,none
 인천,남동구,구월동,카레,히토리카레,인천 남동구 남동대로765번길 26 (구월동),돈까스카레,https://naver.me/F0KwUpw5,none
 인천,부평구,삼산동,韓国料理,배두둑마을,인천 부평구 체육관로 24 청호빌딩 (삼산동),곤드레밥정식,https://naver.me/FEJdNeJX,none
@@ -121,4 +121,4 @@ city,district,neighborhood,restaurant_type,restaurant_name,address,main_menu,lin
 제주,서귀포,서홍동,일식,아리,제주 서귀포시 홍중로 99 1층 (서홍동),아리텐동,https://naver.me/5HSE1muL,none
 제주,서귀포,상효동,韓国料理,돈내코 점심,제주 서귀포시 516로 472 (상효동),제주청귤초비빔면,https://place.map.kakao.com/1116584730,none
 제주,서귀포,하효동,カフェ,게우지코지 カフェ,제주 서귀포시 보목포로 179 (하효동),제주목장 요거트,https://place.map.kakao.com/1013835521,none
-제주,서귀포,하효동,중식,아서원,제주 서귀포시 칠십리로 699 (하효동),짬뽕,https://place.map.kakao.com/7989149,none
+제주,서귀포,하효동,中華料理,아서원,제주 서귀포시 칠십리로 699 (하효동),짬뽕,https://place.map.kakao.com/7989149,none
